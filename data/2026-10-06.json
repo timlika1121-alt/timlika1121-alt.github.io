@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-06",
+  "coverage_utc": {
+    "start": "2026-10-05T00:31:19Z",
+    "end": "2026-10-06T10:19:16Z"
+  },
+  "coverage_hkt": {
+    "start": "2026-10-05T08:31:19+08:00",
+    "end": "2026-10-06T18:19:16+08:00"
+  },
+  "updated_hkt": "2026-10-06 18:22",
+  "source_accounts": 48,
+  "posts": [
+    {
+      "handle": "damnang2",
+      "name": "Damnang",
+      "time_utc": "2026-10-06T10:19:16Z",
+      "time_hkt": "2026-10-06T18:19:16+08:00",
+      "theme": "記憶體／HBM",
+      "summary_zh": "僅附圖片／媒體，無文字內容。",
+      "views": "23",
+      "url": "https://x.com/damnang2/status/2107415386539102605",
+      "truncated": false,
+      "folded_into": "https://x.com/damnang2/status/2107415071085457459"
+    },
+    {
+      "handle": "damnang2",
+      "name": "Damnang",
+      "time_utc": "2026-10-06T10:18:01Z",
+      "time_hkt": "2026-10-06T18:18:01+08:00",
+      "theme": "記憶體／HBM",
+      "summary_zh": "引用自己的文章：與 SK hynix 未來技術研究院（Future Technology Research Institute）製程工程師的專家訪談，涵蓋 3D DRAM、「2D POC」、hybrid bonding，以及 AI 時代的記憶體策略。",
+      "views": "454",
+      "url": "https://x.com/damnang2/status/2107415071085457459",
+      "truncated": true
+    },
+    {
+      "handle": "damnang2",
+      "name": "Damnang",
+      "time_utc": "2026-10-06T10:14:07Z",
+      "time_hkt": "2026-10-06T18:14:07+08:00",
+      "theme": "記憶體／HBM",
+      "summary_zh": "發布文章〈The Next Memory Race Will Not Be Decided by Scaling Alone〉，為 2026 年 9 月 19 日與 SK hynix 工程師進行、約 90 分鐘的訪談整理。",
+      "views": "907",
+      "url": "https://x.com/damnang2/status/2107414090092322872",
+      "truncated": true
+    },
+    {
+      "handle": "vikramskr",
+      "name": "Vikram Sekar",
+      "time_utc": "2026-10-06T03:37:24Z",
+      "time_hkt": "2026-10-06T11:37:24+08:00",
+      "theme": "記憶體／HBM",
+      "summary_zh": "表示 BoA 從未相信 HBM 規格下修（despec）的傳聞；引用 @damnang2 指 HBM4 將必須回到 12Hi，而非 8Hi。",
+      "likes": "88",
+      "views": "9.1K",
+      "url": "https://x.com/vikramskr/status/2107314252537303353",
+      "truncated": false
+    },
+    {
+      "handle": "ren_stocks",
+      "name": "Ren",
+      "time_utc": "2026-10-06T02:40:58Z",
+      "time_hkt": "2026-10-06T10:40:58+08:00",
+      "theme": "記憶體／HBM",
+      "summary_zh": "JPM 的記憶體市場更新（Memory Market Update）讓他更看好 $MU 與 $SNDK；Micron 認為 2027、2028 年供給會比 2026 年更緊，「看不到供需平衡的跡象」。",
+      "tickers": [
+        "MU",
+        "SNDK"
+      ],
+      "likes": "200",
+      "views": "20K",
+      "url": "https://x.com/ren_stocks/status/2107300051970126204",
+      "truncated": true
+    },
+    {
+      "handle": "PhotonCap",
+      "name": "Photon Capital",
+      "time_utc": "2026-10-06T02:37:33Z",
+      "time_hkt": "2026-10-06T10:37:33+08:00",
+      "theme": "光通訊／光子",
+      "summary_zh": "Hybrid PIC（光子積體電路）市場預估由 2025 年 24.5 億美元成長至 2035 年 68.2 億美元，datacom 佔 45.2%，AI 資料中心光連結為主要驅動力；但指出報告中的市場規模隱含 CAGR 為 10.8%，而非報告所稱的 13.6%。",
+      "likes": "13",
+      "views": "7.9K",
+      "url": "https://x.com/PhotonCap/status/2107299189214638249",
+      "truncated": true
+    },
+    {
+      "handle": "dylan522p",
+      "name": "Dylan Patel",
+      "time_utc": "2026-10-05T23:58:07Z",
+      "time_hkt": "2026-10-06T07:58:07+08:00",
+      "theme": "AI 算力與訂閱經濟",
+      "summary_zh": "引用 @SemiAnalysis_：Anthropic、OpenAI 等業者的訂閱方案所提供的價值差距「大得離譜」；測試對象包括 Meta、Minimax、Kimi、Grok 與 Cursor 的訂閱。",
+      "likes": "399",
+      "views": "76K",
+      "url": "https://x.com/dylan522p/status/2107259067693748373",
+      "truncated": true
+    },
+    {
+      "handle": "insane_analyst",
+      "name": "Irrational Analysis",
+      "time_utc": "2026-10-05T23:01:41Z",
+      "time_hkt": "2026-10-06T07:01:41+08:00",
+      "theme": "AI 算力與訂閱經濟",
+      "summary_zh": "指出 AI 月費訂閱仍被大幅補貼，並提問：補貼為何存在？在供給嚴重受限的市場中補貼越高是好是壞？若沒有補貼，ARR 還能成長得這麼快嗎？",
+      "likes": "285",
+      "views": "65K",
+      "url": "https://x.com/insane_analyst/status/2107244864333361207",
+      "truncated": false
+    },
+    {
+      "handle": "CathieDWood",
+      "name": "Cathie Wood",
+      "time_utc": "2026-10-05T22:50:07Z",
+      "time_hkt": "2026-10-06T06:50:07+08:00",
+      "theme": "個股與其他",
+      "summary_zh": "回應 Robinhood 高峰會上一位聽眾以 ARK 相對 QQQ 的績效質疑她的資歷：「I welcome the question…」",
+      "tickers": [
+        "QQQ"
+      ],
+      "likes": "560",
+      "views": "137K",
+      "url": "https://x.com/CathieDWood/status/2107241954602102833",
+      "truncated": true
+    },
+    {
+      "handle": "socialcapital",
+      "reposted_by": "chamath",
+      "time_utc": "2026-10-05T22:41:01Z",
+      "time_hkt": "2026-10-06T06:41:01+08:00",
+      "theme": "AI 算力與訂閱經濟",
+      "summary_zh": "（@chamath 轉發）前沿 AI 實驗室目前約 90% 的算力用於 post-training 與 inference。",
+      "likes": "561",
+      "views": "92K",
+      "url": "https://x.com/socialcapital/status/2107239666781208693",
+      "truncated": false
+    },
+    {
+      "handle": "chamath",
+      "name": "Chamath Palihapitiya",
+      "time_utc": "2026-10-05T18:47:44Z",
+      "time_hkt": "2026-10-06T02:47:44+08:00",
+      "theme": "個股與其他",
+      "summary_zh": "「modernization, auditability, control, evidence...」——引用 @8090_Factory 宣布一場關於 COBOL 與 Assembly 舊系統現代化的講座。",
+      "likes": "128",
+      "views": "58K",
+      "url": "https://x.com/chamath/status/2107180957988245560",
+      "truncated": false
+    },
+    {
+      "handle": "aleabitoreddit",
+      "name": "Serenity",
+      "time_utc": "2026-10-05T16:20:16Z",
+      "time_hkt": "2026-10-06T00:20:16+08:00",
+      "theme": "光通訊／光子",
+      "summary_zh": "$AAOI 已完成 6 億美元 ATM（市價增發），均價約 $105.36；認為只要不再申請 ATM，AOI 表現將優於 $LITE，理由包括每月 4.71 億美元光收發模組營收與每月 40 萬顆 ELSFP。",
+      "tickers": [
+        "AAOI",
+        "LITE"
+      ],
+      "likes": "1.9K",
+      "views": "382K",
+      "url": "https://x.com/aleabitoreddit/status/2107143846027268373",
+      "truncated": true
+    },
+    {
+      "handle": "asianinvestors",
+      "name": "The Asian Investor",
+      "time_utc": "2026-10-05T12:37:59Z",
+      "time_hkt": "2026-10-05T20:37:59+08:00",
+      "theme": "個股與其他",
+      "summary_zh": "RBC 將 $ZETA 目標價上調至 $40；他表示自己在 $15 時看多曾被說瘋了。",
+      "tickers": [
+        "ZETA"
+      ],
+      "views": "909",
+      "url": "https://x.com/asianinvestors/status/2107087905571410403",
+      "truncated": false
+    },
+    {
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "time_utc": "2026-10-05T05:40:55Z",
+      "time_hkt": "2026-10-05T13:40:55+08:00",
+      "theme": "非市場",
+      "summary_zh": "「Grok Imagine」——引用 @VOLDEMORT2X 以 Grok 製作的影片。",
+      "likes": "13K",
+      "views": "5.2M",
+      "url": "https://x.com/elonmusk/status/2106982949832774039",
+      "truncated": false
+    },
+    {
+      "handle": "asianinvestors",
+      "name": "The Asian Investor",
+      "time_utc": "2026-10-05T03:47:45Z",
+      "time_hkt": "2026-10-05T11:47:45+08:00",
+      "theme": "個股與其他",
+      "summary_zh": "引用 @haydeninvestsX，感謝其對 $EOS 的研究報導；表示自己從 $9 以下就開始買進。",
+      "tickers": [
+        "EOS"
+      ],
+      "views": "959",
+      "url": "https://x.com/asianinvestors/status/2106954470974484945",
+      "truncated": false
+    },
+    {
+      "handle": "M_McDonough",
+      "reposted_by": "Citrini",
+      "time_utc": "2026-10-05T01:25:51Z",
+      "time_hkt": "2026-10-05T09:25:51+08:00",
+      "theme": "個股與其他",
+      "summary_zh": "（@Citrini 轉發）「Hyperliquid perps, live on the Terminal」，附 GIF 示範。",
+      "likes": "2.4K",
+      "views": "379K",
+      "url": "https://x.com/M_McDonough/status/2106918759470678056",
+      "truncated": false
+    },
+    {
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "time_utc": "2026-10-05T05:40:55Z",
+      "time_hkt": "2026-10-05T13:40:55+08:00",
+      "theme": "非市場",
+      "summary_zh": "「Grok @Bot」——引用 @BrianRoemmele 的貼文〈It Is Time To Hire Your First Grok Bot Employee!〉。",
+      "likes": "4.7K",
+      "views": "2.3M",
+      "url": "https://x.com/elonmusk/status/2106905035065991214",
+      "truncated": false
+    }
+  ]
+}
