@@ -47,6 +47,34 @@ a.sub{color:var(--mut)}
 .acct{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.78rem;line-height:1.8;word-break:break-word}
 .disc{color:var(--warn)}
 @media (max-width:520px){h1{font-size:1.35rem}.grid{grid-template-columns:1fr}.wrap{padding:14px 12px 30px}}
+/* ===== 淺色主題 v1（網頁UI 設計）：貼喔原本 <style> 最尾即可覆蓋 ===== */
+:root{
+  --bg:#f5f7fa;      /* 頁面底色：淡灰藍，比純白唔刺眼 */
+  --panel:#ffffff;   /* 卡片 */
+  --panel2:#eef2f6;  /* 計數膠囊、次要底 */
+  --line:#dde3ea;    /* 分隔線、卡片邊 */
+  --tx:#1f2937;      /* 主文字 */
+  --mut:#5b6675;     /* 次要文字（對白底對比 ≥ 5.5:1） */
+  --acc:#1a7f37;     /* 綠：主題標記、股票代號 */
+  --acc2:#0b63ce;    /* 藍：連結、@帳號 */
+  --warn:#9a6700;    /* 琥珀：提示、免責 */
+}
+body{background:var(--bg)}
+.top{border-bottom-color:var(--line)}
+h1{color:#0f172a}
+h1 .dot{box-shadow:0 0 0 3px rgba(26,127,55,.18)}
+.hl{background:linear-gradient(180deg,#eaf3ff,#f4f8ff);border-color:#bcd6f5;box-shadow:0 1px 2px rgba(15,23,42,.04)}
+.hl h2{color:#0b4fa3}
+.hl li b{color:#0f172a}
+.card{border-color:var(--line);box-shadow:0 1px 2px rgba(15,23,42,.05);transition:box-shadow .15s,border-color .15s,transform .15s}
+.card:hover{border-color:#b8c4d3;box-shadow:0 6px 16px rgba(15,23,42,.08);transform:translateY(-1px)}
+.card footer{border-top-color:#e6ebf1}
+.tag{color:#116329;background:#e8f5ec;border-color:#b7dfc2}
+.cnt{background:var(--panel2);border-color:var(--line);color:var(--mut)}
+.trunc,.disc{color:var(--warn)}
+a.sub{color:var(--mut)}
+.foot{border-top-color:var(--line)}
+
 </style>
 </head>
 <body>
@@ -54,7 +82,7 @@ a.sub{color:var(--mut)}
 <header class="top">
 <h1><span class="dot"></span>X 市場觀察者雷達</h1>
 <p class="sub-h">涵蓋時段：<b>2026-10-05 08:31 – 2026-10-06 18:19 HKT</b>（UTC+8）· 共 17 則貼文（含轉發），12 個追蹤帳號有動態</p>
-<p class="sub-h">最後更新：<b>2026-10-06 18:22 HKT</b> · 聚焦：美股、半導體、AI 科技</p>
+<p class="sub-h">最後更新：<b>2026-10-06 18:29 HKT</b> · 聚焦：美股、半導體、AI 科技</p>
 </header>
 
 <section class="hl">
